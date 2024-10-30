@@ -1,10 +1,7 @@
 # 👋 Hello World,
 
-### I’m Orandi a Fullstack Software Engineer with a unique blend of technical expertise and a background in applied communication. My journey in tech has been driven by a genuine passion for creating software that not only functions well but truly serves its users.
-
-### Having worked as a customer success strategist, I understand the importance of aligning technology with user needs. This perspective informs my approach to development, ensuring that the applications I build are intuitive and effective. I enjoy tackling challenges across both front-end and back-end technologies, whether it’s crafting responsive user interfaces or optimizing server-side logic.
-
-### For me, every line of code is an opportunity to enhance user experiences and drive real impact. I’m always eager to learn and adapt, believing that collaboration and open communication are vital in creating meaningful software solutions.
+#### I’m Orandi, a Fullstack Software Engineer with a passion for creating software that truly serves its users. With a background in applied communication and experience as a customer success strategist, I focus on aligning technology with user needs.
+#### I tackle challenges across front-end and back-end development, crafting intuitive interfaces and optimizing server-side logic. For me, every line of code is an opportunity to enhance user experiences and drive impact. I believe in the power of collaboration and open communication to create meaningful software solutions.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
