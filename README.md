@@ -6,7 +6,7 @@ Fullstack Software Engineer and Customer Success Strategist
 
 ####  I focus on aligning technology with user needs by tackling challenges in both back-end and front-end development—crafting intuitive interfaces and optimizing server-side logic. For me, every line of code is an opportunity to enhance user experiences and drive impact. I believe in the power of collaboration and open communication to create meaningful software solutions.
 
-#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orandifelix&show_icons=true&theme=radical)
+ 
 
 ### Contact Me
 *   ✉️  You can contact me at [felixorandi@gmail.com](mailto:felixorandi@gmail.com)
