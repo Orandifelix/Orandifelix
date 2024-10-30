@@ -13,7 +13,8 @@ Fullstack Software Engineer and Customer Success Strategist
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on Projects
 
-#### <a href="https://www.github.com/orandifelix" target="_blank" rel="noreferrer"><img
+####
+<a href="https://www.github.com/orandifelix" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/orandifelix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   ### Skills 
 <p align="left">
