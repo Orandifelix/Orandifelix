@@ -12,7 +12,7 @@ Fullstack Software Engineer and Customer Success Strategist
 *   ✉️  Portifolio [Orandi Felix](https://orandi-dev-app.lovable.app/)
 *   ✉️  You can contact me at [felixorandi@gmail.com](mailto:felixorandi@gmail.com)
 *   🚀  I'm currently working on [moving app](http://swiftmovers-web-app.onrender.com/)
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Rustand Pythorn
 *   🤝  I'm open to collaborating on Projects
 
 ####
