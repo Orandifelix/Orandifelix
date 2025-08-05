@@ -19,21 +19,71 @@
 
 ### 💻 Tech Stack
 
-**Languages & Frameworks**  
-JavaScript · TypeScript · Rust · Python · Node.js · React · Next.js · Vue.js  
+<details>
+<summary>🧠 Languages & Frameworks</summary>
 
-**Styling**  
-Tailwind CSS · Sass · Bootstrap · Material UI  
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+</p>
+</details>
 
-**Databases**  
-PostgreSQL · MySQL · SQLite  
+<details>
+<summary>🎨 Styling</summary>
 
-**DevOps & Infrastructure**  
-Docker · Docker Compose · Kubernetes · GitHub Actions · GitLab CI/CD  
-Nginx · Linux · AWS (EC2, S3, IAM) · DigitalOcean · Render  
+<p align="left">
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white" />
+</p>
+</details>
 
-**Monitoring & Tools**  
-Grafana · Prometheus · LogRocket · Postman · Figma · VS Code  
+<details>
+<summary>🗄️ Databases</summary>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary>⚙️ DevOps & Infrastructure</summary>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker Compose-003F8C?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-1E1E1E?style=flat&logo=render&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary>🧰 Monitoring & Tools</summary>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LogRocket-0A0A0A?style=flat&logo=logrocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+</details>
 
 ---
 
