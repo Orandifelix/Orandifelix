@@ -4,7 +4,7 @@
 Fullstack Software Engineer and Customer Success Strategist
 -------------------------------------------------------------
 
-####  I focus on aligning technology with user needs by tackling challenges in both back-end and front-end development—crafting intuitive interfaces and optimizing server-side logic. For me, every line of code is an opportunity to enhance user experiences and drive impact. I believe in the power of collaboration and open communication to create meaningful software solutions.
+####  🚀 Helping tech-driven teams ship faster by building robust full-stack apps and automating CI/CD pipelines for scalability, reliability, and speed..
 
  
 
