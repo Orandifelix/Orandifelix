@@ -59,25 +59,6 @@ Grafana · Prometheus · LogRocket · Postman · Figma · VS Code
 </div>
 </details>
 
-<details>
-<summary>🔥 Contribution Streak</summary>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orandifelix&theme=dark&hide_border=true" width="80%" />
-
-</div>
-</details>
-
-<details>
-<summary>📉 Commit Activity Graph</summary>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orandifelix&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width="100%" />
-
-</div>
-</details>
 
 
 
