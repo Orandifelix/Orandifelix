@@ -1,46 +1,82 @@
 # Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 **Orandi Felix**  
-*Full-Stack Software Engineer | Customer Success Strategist*  
-**Builder of systems. Shaper of stories.**
+*Software & DevOps Engineer*  
+**Builder of systems. Shaper of reliable pipelines.**
 
-🚀 Helping tech-driven teams ship faster by building robust full-stack apps and automating CI/CD pipelines for scalability, reliability, and speed.
+🚀 Helping tech-driven teams ship faster by building robust full-stack apps and automating CI/CD pipelines for **scalability**, **resilience**, and **speed**.
 
 ---
 
 ### 🔗 Contact
-- 📬 [Portfolio](https://orandi-dev-app.lovable.app/)
+- 🌐 [Portfolio](https://orandi-dev-app.lovable.app/)
 - 📧 [felixorandi@gmail.com](mailto:felixorandi@gmail.com)
-- 🛠️ Working on: [Swift Movers App](http://swiftmovers-web-app.onrender.com/)
-- 📚 Learning: Rust, Python
-- 🤝 Open to collaborations
+- 🛠️ Currently working on: [Swift Movers App](http://swiftmovers-web-app.onrender.com/)
+- 🧠 Learning: Rust, Python
+- 🤝 Open to collaboration
 
 ---
 
-### 🛠️ Skills
-JavaScript · TypeScript · Rust · React · Vue · Next.js · Node.js  
-PostgreSQL · MySQL · TailwindCSS · Material UI · AWS · Figma · Linux
+### 💻 Tech Stack
+
+**Languages & Frameworks**  
+JavaScript · TypeScript · Rust · Python · Node.js · React · Next.js · Vue.js  
+
+**Styling**  
+Tailwind CSS · Sass · Bootstrap · Material UI  
+
+**Databases**  
+PostgreSQL · MySQL · SQLite  
+
+**DevOps & Infrastructure**  
+Docker · Docker Compose · Kubernetes · GitHub Actions · GitLab CI/CD  
+Nginx · Linux · AWS (EC2, S3, IAM) · DigitalOcean · Render  
+
+**Monitoring & Tools**  
+Grafana · Prometheus · LogRocket · Postman · Figma · VS Code  
 
 ---
 
-### 🌐 Socials
+### 🌐 Socials  
 [GitHub](https://github.com/orandifelix) · [X (Twitter)](https://x.com/fel_rand)
 
 ---
 
+### 📊 GitHub Stats
+
 <details>
-<summary>📊 GitHub Stats (click to expand)</summary>
+<summary>📈 GitHub Overview & Languages</summary>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=orandifelix&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orandifelix&theme=dark&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orandifelix&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="48%" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=orandifelix&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="100%" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orandifelix&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="100%" /></td>
+  </tr>
+</table>
 
 </div>
+</details>
 
+<details>
+<summary>🔥 Contribution Streak</summary>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=orandifelix&theme=dark&hide_border=true" width="80%" />
+
+</div>
+</details>
+
+<details>
+<summary>📉 Commit Activity Graph</summary>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orandifelix&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width="100%" />
+
+</div>
 </details>
 
 
