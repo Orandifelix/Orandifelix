@@ -10,7 +10,7 @@
 
 ### 🔗 Contact
 - 🌐 [Portfolio](https://orandi-dev-app.app/)
-- 📧 [felixorandi@gmail.com](mailto:felixorandi@gmail.com)
+- 📧 [E-maill](mailto:felixorandi@gmail.com)
 - 🛠️ Currently working on: [Swift Movers App](http://swiftmovers-web-app.onrender.com/)
 - 🧠 Learning: Rust, Python
 - 🤝 Open to collaboration
