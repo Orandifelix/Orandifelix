@@ -9,7 +9,7 @@
 ---
 
 ### 🔗 Contact
-- 🌐 [Portfolio](https://orandi-dev-app.app/)
+- 🌐 [Portfolio](https://orandi-info.onrender.com/)
 - 📧 [E-maill](mailto:felixorandi@gmail.com)
 - ✨ Bringing to life: [Swift Movers App](http://swiftmovers-web-app.onrender.com/)
 - 🧠 Learning: Rust, Go, Python
