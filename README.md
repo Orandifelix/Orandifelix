@@ -9,9 +9,9 @@
 ---
 
 ### 🔗 Contact
-- 🌐 [Portfolio](https://orandi-info.onrender.com/)
-- 📧 [E-maill](mailto:felixorandi@gmail.com)
-- ✨ Bringing to life: [Swift Movers App](http://swiftmovers-web-app.onrender.com/)
+-🌐 <a href="https://orandi-info.onrender.com/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
+📧 <a href="mailto:felixorandi@gmail.com" target="_blank" rel="noopener noreferrer">E-mail</a>  
+✨ Bringing to life: <a href="http://swiftmovers-web-app.onrender.com/" target="_blank" rel="noopener noreferrer">Swift Movers App</a>
 - 🧠 Learning: Rust, Go, Python
 - 🤝 Open to collaboration
 
