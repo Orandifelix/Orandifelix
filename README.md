@@ -11,7 +11,7 @@
 ### 🔗 Contact
 🌐 <a href="https://www.orando.info/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
 📧 <a href="mailto:felixorandi@gmail.com" target="_blank" rel="noopener noreferrer">E-mail</a>  
-✨ Bringing to life: <a href="http://swiftmovers-web-app.onrender.com/" target="_blank" rel="noopener noreferrer">Swift Movers App</a>
+✨  
 - 🧠 Learning: Rust, Go, Python
 - 🤝 Open to collaboration
 
