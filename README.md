@@ -11,8 +11,8 @@
 ### 🔗 Contact
 🌐 <a href="https://www.orando.info/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
 📧 <a href="mailto:felixorandi@gmail.com" target="_blank" rel="noopener noreferrer">E-mail</a>  
-✨  
-- 🧠 Learning: Rust, Go, Python
+✨ <a href="https://orandi-blog.vercel.app/" target="_blank" rel="noopener noreferrer">Blog</a>  
+- 🧠 Learning: Rust, Go
 - 🤝 Open to collaboration
 
 ---
